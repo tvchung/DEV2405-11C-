@@ -1,0 +1,26 @@
+Ngôn ngữ C#
+	- Cú pháp
+	- Biến, hằng, kiểu dữ liệu, toán tử, toán hạng, biểu thức
+		câu lệnh, khối lệnh....
+	- I/O
+	- Các cấu trúc điều khiển: 3 loại
+		++ Lựa chọn/ rẽ nhánh
+			++ if : 4 dạng if 
+				-+) if đơn
+				-+) if đầy đủ
+				-+) if bậc thang
+				-+) if lồng nhau
+			
+			++ switch
+				case: 
+		++ Lặp:
+			+++) for
+			+++) while
+			+++) do...while
+			+++) foreach
+			
+		++ Lệnh nhảy:
+			break
+			continue
+			return 
+			
